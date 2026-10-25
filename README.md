@@ -17,7 +17,7 @@ https://nevini.wine/api/mcp/
 ## Connect
 
 - **Claude Code:** `claude mcp add --transport http nevini https://nevini.wine/api/mcp/`
-- **claude.ai / Claude Desktop:** Customize > Connectors > "+ Add" > "Add custom connector", enter the URL above, authentication "No sign in".
+- **claude.ai / Claude Desktop:** Customize > Connectors > "+ Add" > "Add custom connector", enter a name and the URL above, Continue (Claude detects "No sign-in"), Add, then Connect.
 - **ChatGPT (web):** Plugins > plus button > "Add custom MCP server", the URL above under Connection, "No authentication", then "Create as a plugin".
 - **Cursor** (`~/.cursor/mcp.json` or `.cursor/mcp.json`):
 
